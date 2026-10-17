@@ -26,7 +26,7 @@ approval:
   summary:
     denied: "この{noun}は拒否されました — 実行されていません。"
     timeout: "{window}以内に応答がなかったため、{noun}は実行されていません。"
-    notify_failed: "承認リクエストを届けられなかったため、{noun}は実行されていません。"
+    notify_failed: "承認リクエストが届かなかったため、{noun}は実行されていません。"
     cancelled: "承認プロンプトが取り下げられたか届かなかったため、{noun}は実行されていません。"
     blocked: "この{noun}は無人セッションでは許可されていません — 実行されていません。"
     default: "この{noun}は実行されていません。"
@@ -84,7 +84,7 @@ gateway:
     none: "アクティブなエージェントや実行中のタスクはありません。"
     state_starting: "起動中"
     state_running: "実行中"
-    no_progress: " · 進行なし {seconds} 秒"
+    no_progress: " · 進捗なし {seconds} 秒"
     quiet_for: " · 無応答 {seconds} 秒"
     between_turns: "ターン間"
     child_row: "  - 子 {index}: API 呼び出し {calls} 回 · {doing}"
