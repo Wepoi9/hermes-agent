@@ -4,10 +4,10 @@
 
 billing.autoReload.aDifferentCard: "別のカード"
 billing.autoReload.agreeAndTurnOn: "同意してオンにする"
-billing.autoReload.authorization: "確認すると、残高がしきい値を下回るたびに Nous Research が {0} に課金することを認可したことになります。ここまたはポータルでいつでもオフにできます。"
+billing.autoReload.authorization: "確認すると、残高がしきい値を下回るたびに Nous Research が {0} に課金することを許可したことになります。ここまたはポータルでいつでもオフにできます。"
 billing.autoReload.cardOnFile: "登録済みのカード: {0}"
 billing.autoReload.description: "残高が少なくなったら自動的に資金を追加します。"
-billing.autoReload.distinctCardWarning: "⚠ 自動チャージは {0} に課金されます — 登録済みのカードではありません。"
+billing.autoReload.distinctCardWarning: "⚠ 自動チャージの請求先は {0} です。登録済みのカードではありません。"
 billing.autoReload.hint: "↑/↓ 移動 · Tab フィールド切替 · Enter 次へ/確定 · Esc 戻る"
 billing.autoReload.manageCardOnPortal: "登録済みのカードを使用 — ポータルで管理"
 billing.autoReload.noCardManageOnPortal: "🔴 保存済みのカードがありません — 請求はポータルで管理してください。"
