@@ -16,7 +16,7 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/Lang-Español-orange?style=for-the-badge" alt="Español"></a>
 </p>
 
-**[Nous Research](https://nousresearch.com) が開発する、使うほど成長するAIエージェントです。** 経験からスキルを作り、使いながら磨き、知識を記憶に残すよう自ら働きかけます。過去の会話を検索し、セッションを重ねるごとにあなたへの理解も深めていきます。こうした学習の仕組みを備えたエージェントは、Hermesだけです。月額5ドルのVPSからGPUクラスター、使っていない間はほとんど費用のかからないサーバーレス環境まで、さまざまな場所で実行できます。ノートPCに縛られることもありません。クラウドVMで作業させながら、Telegramから話しかけられます。
+**[Nous Research](https://nousresearch.com) が開発する、使うほど成長するAIエージェントです。** 経験からスキルを作り、使いながら磨き、知識を記憶に残すよう自ら働きかけます。過去の会話を検索し、セッションを重ねるごとにあなたへの理解も深めていきます。こうした学習の仕組みを標準で備えている点は、Hermesの大きな特徴の一つです。月額5ドルのVPSからGPUクラスター、使っていない間はほとんど費用のかからないサーバーレス環境まで、さまざまな場所で実行できます。ノートPCに縛られることもありません。クラウドVMで作業させながら、Telegramから話しかけられます。
 
 モデルは自由に選べます。[Nous Portal](https://portal.nousresearch.com)、OpenRouter、OpenAI、自前のエンドポイントなど、[多くのプロバイダー](https://hermes-agent.nousresearch.com/docs/integrations/providers)に対応しています。`hermes model` で切り替えられ、コードの変更も特定サービスへの固定も必要ありません。
 
